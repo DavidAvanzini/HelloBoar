@@ -46,7 +46,7 @@ Boar are beautiful but can be dangerous , so we need detect them !
 
 * Boar detection from Image/and Videos
 * A rest Service  to perform detection
-* A map to track Boars (to alert people)
+* (TODO )A map to track Boars (to alert people)
 
 
 ## Built With
