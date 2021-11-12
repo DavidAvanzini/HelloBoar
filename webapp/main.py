@@ -20,7 +20,7 @@ from fastapi.staticfiles import StaticFiles
 
 #init ML model 
 predictions.init()
-description = "A Machine Learning Powdered rest service to detect Boars"
+description = "A Machine Learning Powered rest service to detect Boars"
 
 tags_metadata = [
     {
