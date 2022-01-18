@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/DavidAvanzini/HelloBoar">
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="Boarsjpg.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Hello Boar!</h3>
@@ -46,7 +46,7 @@ Boar are beautiful but can be dangerous , so we need detect them !
 
 * Boar detection from Image/and Videos
 * A rest Service  to perform detection
-* A map to track Boars (to alert people)
+* (TODO )A map to track Boars (to alert people)
 
 
 ## Built With
